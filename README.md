@@ -1,4 +1,4 @@
- ![flush.bat][1] 
+ [flush.bat][1] 
 [
 executes the following commands :
 

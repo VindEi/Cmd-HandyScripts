@@ -1,4 +1,5 @@
-flush.bat 
+ ![flush.bat][1] 
+
 
 {
 executes the following commands :
@@ -34,3 +35,7 @@ executes the following commands :
 shutdown -s -t %Sec%
 --------------------
 }
+
+  [1]: https://i.stack.imgur.com/xK0Tz.png
+  [2]: https://i.stack.imgur.com/vKfnI.png
+  [3]: https://i.stack.imgur.com/Hzk29.png

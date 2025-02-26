@@ -32,6 +32,6 @@ shutdown -s -t %Sec%
 
 --------------------
 
-  [1]: https://github.com/VindEi/Cmd-HandyScripts/releases/download/1.0.0/SystemCheck.bat
-  [2]: https://github.com/VindEi/Cmd-HandyScripts/releases/download/1.0.0/Network.bat
+  [1]: https://github.com/VindEi/Cmd-HandyScripts/releases/download/1.0.0/Network.bat
+  [2]: https://github.com/VindEi/Cmd-HandyScripts/releases/download/1.0.0/SystemCheck.bat
   [3]: https://github.com/VindEi/Cmd-HandyScripts/releases/download/1.0.0/TimedShutdown.bat
